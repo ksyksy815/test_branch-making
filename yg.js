@@ -1,3 +1,3 @@
 function yg(){
-    return '영근'
+    return '영근수정'
 }
